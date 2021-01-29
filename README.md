@@ -1,11 +1,11 @@
 
 <p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/BintangP28-BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Bintang Pamungkas-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/BintangP28"><img title="Author" src="https://img.shields.io/badge/AUTHOR-BintangP28-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/BintangP28"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Bintang Pamungkas-blue.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
-<a href="https://github.com/RavaAchmad/followers"><img title="Followers" src="https://img.shields.io/github/followers/RavaAchmad?color=blue&style=flat-square"></a>
+<a href="https://github.com/RavaAchmad/followers"><img title="Followers" src="https://img.shields.io/github/followers/BintangP28?color=blue&style=flat-square"></a>
 <a href="https://github.com/RavaAchmad/GaroxBot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/RavaAchmad/GaroxBot?color=red&style=flat-square"></a>
 <a href="https://github.com/RavaAchmad/GaroxBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/RavaAchmad/GaroxBot?color=red&style=flat-square"></a>
 <a href="https://github.com/RavaAchmad/GaroxBot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/RavaAchmad/GaroxBot?label=Watchers&color=blue&style=flat-square"></a>
