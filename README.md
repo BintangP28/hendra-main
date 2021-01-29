@@ -33,7 +33,7 @@
   
   
  
-<p align="center"><a href="https://wa.me/6282147078449?text=%23menu" target="_blank">My Whatsapp BOT</a>.</p>
+<p align="center"><a href="https://wa.me/6283813304760?text=%23menu" target="_blank">My Whatsapp BOT</a>.</p>
 </div>
 
 
