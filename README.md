@@ -17,10 +17,6 @@
 <img src="https://media.giphy.com/media/mf4qECoTz8ZVK/giphy.gif" width="100%" alt="API Giphy logo"/>
 
   
-<p align="left">
-<a href="https://github.com/Hendra088/Hendra088">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RavaAchmad&repo=GaroxBot&theme=dark" />
-  </p>
 
   
   
