@@ -1,11 +1,9 @@
+
 <p align="center">
-<img src="https://avatars.githubusercontent.com/Hendra088" width="225" height="225"/>
+<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/BintangP28-BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/HendraBot Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/Hendra088"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Hendra088-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/BintangP28"><img title="Author" src="https://img.shields.io/badge/AUTHOR-BintangP28-blue.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
 <a href="https://github.com/RavaAchmad/followers"><img title="Followers" src="https://img.shields.io/github/followers/RavaAchmad?color=blue&style=flat-square"></a>
 <a href="https://github.com/RavaAchmad/GaroxBot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/RavaAchmad/GaroxBot?color=red&style=flat-square"></a>
